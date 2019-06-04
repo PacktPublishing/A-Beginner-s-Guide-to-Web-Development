@@ -8,8 +8,8 @@ WordPress has emerged as a powerful, easy to use tool to design attractive, enga
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI> Learn the process of WordPress theme creation</LI>
-<LI> Master the design and Programming skills required for creating themes <LI>
-<LI> Start making money by selling WordPress themes <LI>
+<LI> Master the design and Programming skills required for creating themes </LI>
+<LI> Start making money by selling WordPress themes </LI>
 <LI> Learn the basic PHP, HTML and CSS required for theme creation <LI>
 </UL></DIV>
 
